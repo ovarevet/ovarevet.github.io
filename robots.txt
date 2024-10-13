@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ovarevet.github.io/sitemap.html.gz
+Sitemap: https://ovarevet.github.io/app/sitemap.html.gz
+Sitemap: https://ovarevet.github.io/assets/sitemap.html.gz
+Sitemap: https://ovarevet.github.io/css/sitemap.html.gz
+Sitemap: https://ovarevet.github.io/includes/sitemap.html.gz
+Sitemap: https://ovarevet.github.io/item/sitemap.html.gz
+Sitemap: https://ovarevet.github.io/src/sitemap.html.gz
